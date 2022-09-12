@@ -100,8 +100,6 @@ export default {
 .hover-class:hover {
   cursor: pointer;
   background-color: red;
-
-  
 }
 .bg-vue-green {
     background-color: #3fb984;
