@@ -1,5 +1,12 @@
 # my-project
 
+## Information about program
+```
+The Calculator app has the functions of a regular basic calculator. You are able to add, subtract, mulitply, divide, 
+and use modulo operation. When you click on a button it turns red, and when you click on a different button, the 
+previous button returns to it's original color.
+```
+
 ## Project setup
 ```
 npm install
@@ -18,13 +25,6 @@ npm run build
 ### Lints and fixes files
 ```
 npm run lint
-```
-
-### Information about program
-```
-The Calculator app has the functions of a regular basic calculator. You are able to add, subtract, mulitply, divide, 
-and use modulo operation. When you click on a button it turns red, and when you click on a different button, the 
-previous button returns to it's original color.
 ```
 
 ### Additional Sources Used
